@@ -96,7 +96,7 @@ By deploying this model, businesses can:
 ## 🌱 About Me
 
 I'm a self-taught data enthusiast and economics student passionate about using data to solve real-world problems.  
-This project was part of my learning journey in Python and machine learning, and you can find more of my work [here](https://github.com/yourusername/Data-Projects) 💻🌻
+This project was part of my learning journey in Python and machine learning, and you can find more of my work [here](https://github.com/uyenp30/Data-Projects) 💻🌻
 
 ---
 
