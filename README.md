@@ -101,4 +101,4 @@ This project was part of my learning journey in Python and machine learning, and
 ---
 
 *Thank you for reading!* ✨  
-*If you found this useful or have feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-link).*  
+*If you found this useful or have feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/uyen-pham-sua/).*  
