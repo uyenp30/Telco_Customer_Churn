@@ -73,13 +73,19 @@ Why did customers churn? Who are going to churn next? Exploring data leads to st
 
 ---
 
-## 💼 Business Impact
+## 💼 Business Impact and Suggestions
 
 By deploying this model, businesses can:
 - Proactively target customers likely to churn
 - Offer personalized retention strategies
 - Improve revenue by reducing customer loss
 - Inform decisions for subscription models and pricing
+
+Some suggestions for business
+- Encourage customers to shift to longer-term contracts (e.g., one- or two-year).
+- Incentivize adoption of support services like Tech Support, Device Protection, and Online Security.
+- Monitor and improve satisfaction among Fiber Optic users.
+- Investigate why electronic check users are churning—possibly a billing experience issue.
 
 ---
 
