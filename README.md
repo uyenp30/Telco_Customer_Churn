@@ -68,8 +68,8 @@ Why did customers churn? Who are going to churn next? Exploring data leads to st
 | Random Forest       | 79%   | 0.62      | 0.51   | 0.56     |
 | XGBoost             | 77%   | 0.57      | 0.52   | 0.54     |
 
-✅ **Best Model:** Random Forest Classifier  
-✅ **Top Features:** Contract Type, Tenure, Monthly Charges
+✅ **Best Model:** Logistic Regression
+✅ **Top Features:** Tenure, Contract Type, Total and Monthly Charges
 
 ---
 
