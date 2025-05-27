@@ -40,23 +40,23 @@ Why did customers churn? Who are going to churn next? Exploring data leads to st
 ### 1️⃣ Data Preparation
 - Loaded the Telco churn dataset.
 - Fixed data types: converted `SeniorCitizen` to categorical and `TotalCharges` to numeric.
-- Handled missing values (6 nulls) by dropping them due to low proportion and lack of churn signal.
-- Dropped irrelevant column customerID.
+- Handled missing values by dropping them due to low proportion and lack of churn signal.
+- Dropped irrelevant column `customerID`.
 
 ### 2️⃣ Exploratory Data Analysis (EDA)
 - Explored churn distribution (26.9% of customers churned).
-- Visualized outliers and distributions for tenure, MonthlyCharges, and TotalCharges.
+- Visualized outliers and distributions for `tenure`, `MonthlyCharges`, and `TotalCharges`.
 - Found no major outliers, but some skewness → applied standardization later.
 
 ### 3️⃣ Feature Engineering & Processing
 - Identified and separated numerical and categorical features.
-- Used OneHotEncoding for categorical variables and StandardScaler for numerical ones.
-- Built a preprocessing pipeline using ColumnTransformer and Pipeline.
+- Used **OneHotEncoding** for categorical variables and **StandardScaler** for numerical ones.
+- Built a preprocessing pipeline using **ColumnTransformer** and **Pipeline**.
 - Created a fully encoded feature set and calculated correlation of all features with churn.
   
 ### 4️⃣ Insights from Feature Correlation
-- Top churn indicators: Contract_Month-to-month, OnlineSecurity_No, TechSupport_No, ElectronicCheck, FiberOptic, MonthlyCharges
-- Strong retention signals: Long tenure, Contract_Two year, and higher TotalCharges
+- Top churn indicators: `Contract_Month-to-month`, `OnlineSecurity_No`, `TechSupport_No`, `ElectronicCheck`, `FiberOptic`, `MonthlyCharges`
+- Strong retention signals: Long `tenure`, `Contract_Two year`, and higher `TotalCharges`
 
 ---
 
@@ -90,13 +90,6 @@ By deploying this model, businesses can:
 - Visualization helps bridge the gap between technical and business audiences
 - Evaluating models using **multiple metrics** reveals different strengths
 
----
-
-## 🎯 Future Work
-
-- Deploy model via Flask / Streamlit app  
-- Integrate with customer CRM system  
-- Test on other datasets (e.g., banking, SaaS)
 
 ---
 
@@ -109,7 +102,3 @@ This project was part of my learning journey in Python and machine learning, and
 
 *Thank you for reading!* ✨  
 *If you found this useful or have feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-link).*  
-
-
-
-
