@@ -64,9 +64,9 @@ Why did customers churn? Who are going to churn next? Exploring data leads to st
 
 | Model              | Accuracy | Precision | Recall | F1-score |
 |-------------------|----------|-----------|--------|----------|
-| Logistic Regression | 80.1%   | 0.73      | 0.66   | 0.69     |
-| Random Forest       | 85.4%   | 0.79      | 0.71   | 0.74     |
-| SVM                 | 83.2%   | 0.75      | 0.68   | 0.71     |
+| Logistic Regression | 80%   | 0.65      | 0.57   | 0.61     |
+| Random Forest       | 79%   | 0.62      | 0.51   | 0.56     |
+| XGBoost             | 77%   | 0.57      | 0.52   | 0.54     |
 
 ✅ **Best Model:** Random Forest Classifier  
 ✅ **Top Features:** Contract Type, Tenure, Monthly Charges
