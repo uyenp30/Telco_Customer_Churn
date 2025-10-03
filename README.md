@@ -107,4 +107,4 @@ This project was part of my learning journey in Data Analytics, and you can find
 ---
 
 *Thank you for reading!* ✨  
-*If you found this useful or have feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/uyen-pham-sua/).*  
+*If you found this useful or have feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/uyen-pham-data/).*  
